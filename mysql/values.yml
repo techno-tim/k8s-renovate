@@ -1,6 +1,6 @@
 image:
   repository: bitnamicharts/mysql
-  version: 9.10.5
+  version: 11.1.20
 persistence:
   enabled: true
   storageClass: longhorn
